@@ -4,33 +4,6 @@
   
   
   <entry>
-    <title>video test</title>
-    <link href="/2023/06/11/video-test/"/>
-    <url>/2023/06/11/video-test/</url>
-    
-    <content type="html"><![CDATA[<p>Hope you enjoy our first video.</p><span id="more"></span><p>video test</p><table><thead><tr><th>Prompts</th><th>Sampling steps</th><th>Models</th><th>ETA</th><th>CFG Scale</th><th>Lora scale</th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>Robot dancing in times square</td><td>25</td><td>coco</td><td>1</td><td>15</td><td>1</td><td></td><td></td><td></td><td></td></tr></tbody></table><p>This is a video using prompt “Robot dancing in times square” with 25 Sampling steps, coco model, ETA 1, CFG Scale 15 and lora scale 1.</p><video src='/video/RobotDancing.mp4 ' type='video/mp4' controls='controls'  width='100%' height='100%'></video><p>enjoy the video</p>]]></content>
-    
-    
-    <categories>
-      
-      <category>videoCrafter</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>video</tag>
-      
-      <tag>test</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>About the website</title>
     <link href="/2023/06/06/hello-world/"/>
     <url>/2023/06/06/hello-world/</url>
