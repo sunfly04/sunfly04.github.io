@@ -4,13 +4,19 @@
   
   
   <entry>
-    <title>About the website</title>
-    <link href="/2023/06/06/hello-world/"/>
-    <url>/2023/06/06/hello-world/</url>
+    <title>RAFT-report</title>
+    <link href="/2024/02/04/RAFT-report/"/>
+    <url>/2024/02/04/RAFT-report/</url>
     
-    <content type="html"><![CDATA[<p>This is a hkust-aigc studio.</p>]]></content>
+    <content type="html"><![CDATA[<p>RAFT: Recurrent All Pairs Field Transforms for Optical Flow</p><!--more>ECCV 2020Zachary Teed and Jia Deng]]></content>
     
     
+    
+    <tags>
+      
+      <tag>opitcal_flow, CV, DL</tag>
+      
+    </tags>
     
   </entry>
   
